@@ -1,0 +1,11 @@
+{
+    "name": "ProformaInvoice",
+    "alias": "proformainvoice",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProformaInvoice\\Providers\\ProformaInvoiceServiceProvider"
+    ],
+    "files": []
+}
